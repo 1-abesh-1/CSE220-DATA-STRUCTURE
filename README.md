@@ -1,4 +1,4 @@
-# CSE220 - Data Structures and Algorithms (DSA)
+# CSE220 - Data Structures (DS)
 
 This repository contains all materials, assignments, and practice problems for **CSE220: Data Structures and Algorithms**. The course focuses on fundamental data structures and algorithmic techniques, providing hands-on implementation practice in C++.
 
