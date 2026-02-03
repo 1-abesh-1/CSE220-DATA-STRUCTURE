@@ -51,6 +51,6 @@ The course covers:
 | 11 | Tree, Graph | N/A |
 
 ---
-I didn't complete my cse110 and CSE111 repo properly but would definitely try to complete this. But here I would not use java. I am switching to c++ and trying to learn rust for being a embedded engineer. It's a long time didn't work much
+I didn't complete my cse110 and CSE111 repo properly but would definitely try to complete this. But here I would not use java. I am switching to c++ and trying to learn rust for being an embedded engineer. It's a long time didn't work much
 on any repo cause I was in my TARC and far from coding but hopping to share some really cool stuffs I made in semester break.
 
